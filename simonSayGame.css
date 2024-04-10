@@ -1,0 +1,58 @@
+body{
+    text-align: center;
+    background-color:lightgoldenrodyellow;
+}
+h1,h3{
+    text-align: center;
+}
+.red{
+    height:150px;
+    width:150px;
+    border:5px solid black;
+    background-color:#d95980;
+    border-radius: 20%;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+.green{
+    height:150px;
+    width:150px;
+    border:5px solid black;
+    background-color: #63aac0;
+    border-radius: 20%;
+    margin-right: 10px;
+    margin-bottom: 10px;
+
+}
+.blue{
+    height:150px;
+    width:150px;
+    border:5px solid black;
+    background-color: #819ff9;
+    border-radius: 20%;
+   margin-right: 10px;
+   margin-bottom: 10px;
+}
+.yellow{
+    height:150px;
+    width:150px;
+    border:5px solid black;
+    background-color:#ff9b45;
+    border-radius: 20%;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+.btn-container{
+    display: flex;
+    justify-content: center;
+} 
+
+.flash{
+    background-color: white;
+}
+.userFlash{
+    background-color: green;
+}
+.gameover{
+    background-color: red;
+}
